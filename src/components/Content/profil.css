@@ -1,0 +1,64 @@
+
+
+  div .all{
+    background-color: rgb(148, 220, 241);
+  }
+
+
+  .title1{
+    text-align: center;
+    color: blue;
+  }
+
+  .title2{
+    text-align: center;
+    color: black;
+  }
+
+  div .info{
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    border-radius: 20px;
+    margin-left: 30px;
+    margin-top:80px;
+  }
+
+  div .tableau{
+    width: 1000px;
+    height: 400px;
+    background-color: white;
+    border-radius: 20px;
+    margin-left: 800px;
+    margin-top:-320px;
+
+  }
+  div .tableau h3{
+    padding: 3px;
+  }
+
+  div .tableau table{
+    border: 1;
+    width: 800px;
+    height: 300px;
+    
+  }
+
+  td{
+    border: 1;
+  }
+
+  div .other{
+    width: 1000px;
+    height: 200px;
+    background-color: white;
+    margin-left: 800px;
+    border-radius: 30px;
+    margin-top:20px;
+    margin-bottom: 5px;
+  }
+
+
+  img{
+    border-radius: 50%;
+  }

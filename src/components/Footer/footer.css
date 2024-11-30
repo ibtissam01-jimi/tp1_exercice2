@@ -1,0 +1,13 @@
+footer {
+    background-color: #9fa3a5; /* Couleur grise pour le footer */
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    font-style: italic;
+  }
+  
+  footer p {
+    margin: 0;
+    font-size: 0.9rem;
+  }
+  
